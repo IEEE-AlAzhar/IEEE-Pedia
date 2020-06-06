@@ -24,11 +24,15 @@ Here are some cases you'll encounter while contributing:
 ### Add a new article
 <a name="new-article"></a>
 
-To add a new article, think about to which category and subcategory it belongs. After that, create a `.md` file inside the category & subcategory folder you chose and start write your article according to the general requirements. Add the resources inside the `resources/` folder at the corresponding file to the category you write in.
+To add a new article, think about to which category and subcategory it belongs. After that, create a `.md` file inside the category & subcategory folder you chose and start write your article according to the general requirements. Add the resources inside the `resources/` folder at the corresponding file to the category you write in. The file name should be the title of your article. If the title is multi-word so separate between the words with dash '-', e.g: `critical-rendering-path.md`.
 
 ### Add a new resource
 
 To add a new resource, think about to which category and subcategory it belongs. After that, add it to the `.md` file in the `resources/` folder on its section if existed, or add a new section and add it to the section.
+
+### Add a new category
+
+To add a new category of articles, create a folder inside the `articles/` folder with the name of your category. If the name of your category is multi-word, separate between the words with dash '-', e.g: `cloud-computing`.
 
 ### Found a critical bug
 
