@@ -113,6 +113,8 @@ For those who don't have a problem watching a complete  English course I would r
   2.  [Flutter Rating Bar](https://pub.dev/packages/flutter_rating_bar)
   3.  [Animated Splash Screen](https://pub.dev/packages/animated_splash)
   4.  [Animated Text](https://pub.dev/packages/animated_text_kit)
+  5.  [Grouped Buttons](https://pub.dev/packages/grouped_buttons)
+       - This package helps you create list of checkboxes or RadioButtons easily.
   
 # Developers' tools
 <a name = "h"></a>
