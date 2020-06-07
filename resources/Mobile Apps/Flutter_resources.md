@@ -2,7 +2,18 @@
 This file is dedicated to provide a wide range of different resources 
 to help you have a better experience learning **Flutter**.
 
+# Table of contents
+   1.  [For Absolute Beginners (Arabic)](#a)
+   2.  [For Beginners](#b)
+   3.  [Great Youtube channels that any Flutter learner should know](#c)
+   4.  [Some great projects to practice and get inspired](#d)
+   5.  [Some Cloning Apps](#e)
+   6.  [Some popular topics in Flutter](#f)
+   7.  [Some useful libraries in Flutter](#g)
+   8.  [Developers' tools](#h)
+
 # For Absolute Beginners (Arabic) 
+  <a name = "a"></a>
 I would recommend for **Arabic** speaker absolute beginners to start with this channel (PHP Anonymous), 
 since it is very simple and will build some strong base before heading to any English speaking course.
 
@@ -12,7 +23,8 @@ since it is very simple and will build some strong base before heading to any En
   - This introduction is somehow useful for absolute beginners as it provides 
      the basic knowledge to deal with the most common widgets in the Flutter Framework.
      
-# For Beginners    
+# For Beginners   
+<a name = "b"></a>
 For those who don't have a problem watching a complete  English course I would recommend two popular courses that you can find on Udemey:
 
 1. [The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
@@ -24,6 +36,7 @@ For those who don't have a problem watching a complete  English course I would r
    **Those two courses are the most popular ones, but you may search and find a course that can be more suitable for your needs and level.**
 
 # Great Youtube channels that any Flutter learner should know.
+<a name = "c"></a>
   1.  [Santos Enoque](https://www.youtube.com/channel/UCRl79zOEtiLCglAFZJJzEZQ)
       - This channel has such a great content. It has an E-Commerce app which lasts in about  47 videos.
   2.  [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA/featured)
@@ -49,6 +62,7 @@ For those who don't have a problem watching a complete  English course I would r
       - This channel has a great **Arabic** course for beginners covering many topics.
 
 # Some great projects to practice and get inspired
+<a name = "d"></a>
   1.  [Travel App UI](https://www.youtube.com/watch?v=CSa6Ocyog4U)
        - A very elegant UI for travel UI apps.
   2.  Learning platform app UI
@@ -72,13 +86,36 @@ For those who don't have a problem watching a complete  English course I would r
   11. [E commerce app using flutter](https://www.youtube.com/watch?v=gggjyIbvh7M&list=PLGVaNq6mHinganSLulR1_v8I0sqSR5tu4)
        - An E-commerce App explained in **Arabic**. The instructor is very straight forward and simple in his way explaining it.
 # Some Cloning Apps
+<a name = "e"></a>
   1.  [Facebook messenger clone](https://www.youtube.com/watch?v=gwXtxVIC7w8&list=PLmnT6naTGy2QmxKcDj2-Rb18ZoQrXmBZ6)
   2.  [Tweeter Clone in **Arabic**](https://www.youtube.com/watch?v=DJZwO7_61E0&list=PLrp0TLl83XrCTygYvrLwQTMxK0zmvvpbm)
   3.  [Uber clone](https://www.youtube.com/watch?v=ya1lsXS2Wvw&list=PLmnT6naTGy2TNKTW2W-twfG_gFuCtnFQF)
 
 # Some popular topics in Flutter
+<a name = "f"></a>
   1.  [Provider in depth](https://www.youtube.com/watch?v=u9U6mXL3t_c&list=PLKlZdGMAYp6_kxMe1wg5nB_GrLOJe-ajY)
   2.  [Flutter Clean Architecture](https://www.youtube.com/watch?v=KjE2IDphA_U&list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech)
   3.  [SharedPreferences](https://www.youtube.com/watch?v=QKvgVu3ihkM)
   4.  [Localization in Flutter](https://www.youtube.com/watch?v=AS-0SXT2qio&list=PLyHn8N5MSsgEfPAxCytQDPATDlHwpP5rE)
   5.  [Payments in Flutter](https://www.youtube.com/watch?v=XdbwAmTx7f4&list=PLmnT6naTGy2Sb800Ny62T7Adv-dGvrryh)
+  6.  Splash Screen
+       - You can see how to implement it in these two videos:
+         - [Part 1](https://www.youtube.com/watch?v=71CYHUrxh88)
+         - [Part 2](https://www.youtube.com/watch?v=Vzta7gG_roE&feature=youtu.be)
+  7.  [Night Mode using Provider](https://medium.com./flutterdevs/implement-dark-mode-in-flutter-using-provider-158925112bf9)       
+# Some useful libraries in Flutter
+<a name = "g"></a>
+  1.  [Font Awesome Icons](https://pub.dev/packages/font_awesome_flutter)
+  2.  [Flutter Rating Bar](https://pub.dev/packages/flutter_rating_bar)
+  3.  [Animated Splash Screen](https://pub.dev/packages/animated_splash)
+  4.  [Animated Text](https://pub.dev/packages/animated_text_kit)
+  
+# Developers' tools
+<a name = "h"></a>
+  1.  [scrcpy](https://github.com/Genymobile/scrcpy)
+       - scrpy is an amazing light tool to help you mirror you cell phone screen on your laptop. **Highly recommended**
+  2.  [flaticon](https://www.flaticon.com/) 
+       - flaticon is a large store for many icons with different extensions.
+  3.  [dribbble](https://dribbble.com/)
+       - This website has so many designs that you can freely mimic in your app/website.
+   
