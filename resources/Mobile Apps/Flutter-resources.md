@@ -101,7 +101,7 @@ For those who don't have a problem watching a complete  English course I would r
   4.  [Localization in Flutter](https://www.youtube.com/watch?v=AS-0SXT2qio&list=PLyHn8N5MSsgEfPAxCytQDPATDlHwpP5rE)
   5.  [Payments in Flutter](https://www.youtube.com/watch?v=XdbwAmTx7f4&list=PLmnT6naTGy2Sb800Ny62T7Adv-dGvrryh)
   6.  [Databases In Flutter **Arabic**](https://www.youtube.com/watch?v=gFTopmKgCJE&list=PL3aG1K3LWCre5saKBGuCFU6Ay67GPY7qm&index=1)
-       - This playlist has such a detailed content for SQLite and Sharedpreferences for **Arabic** and also he provides the same videos          with the same content in **English** in his channel.
+       - This playlist has such a detailed content for SQLite and Sharedpreferences in **Arabic** and also he provides the same videos          with the same content in **English** in his channel.
   6.  Splash Screen
        - You can see how to implement it in these two videos:
          - [Part 1](https://www.youtube.com/watch?v=71CYHUrxh88)
