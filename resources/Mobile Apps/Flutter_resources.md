@@ -3,7 +3,7 @@ This file is dedicated to provide a wide range of different resources
 to help you have a better experience learning **Flutter**.
 
 # For Absolute Beginners (Arabic) 
-I would recommend for Arabic speaker absolute beginners to start with this channel (PHP Anonymous), 
+I would recommend for **Arabic** speaker absolute beginners to start with this channel (PHP Anonymous), 
 since it is very simple and will build some strong base before heading to any English speaking course.
 
 1. [Dart Introductioin](https://www.youtube.com/watch?v=R-rv6vQfXq8&list=PLcfD4HARQRF-vr7yI0KkQAs2HzqyG7k2j)
@@ -24,25 +24,29 @@ For those who don't have a problem watching a complete  English course I would r
    **Those two courses are the most popular ones, but you may search and find a course that can be more suitable for your needs and level.**
 
 # Great Youtube channels that any Flutter learner should know.
-  1. [Santos Enoque](https://www.youtube.com/channel/UCRl79zOEtiLCglAFZJJzEZQ)
-     - This channel has such a great content. It has an E-Commerce app which lasts in about  47 videos.
-  2. [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA/featured)
-     - This channel has some great playlist most of them dedicated to explain Flutter clean Architecture and more. 
-  3. [Raja Yogan](https://www.youtube.com/channel/UCjBxAm226XZvgrkO-JyjJgQ/featured)
-     - This channel has a great playlist explaining Firebase, he also has some beautiful UI videos.
-  4. [Smartherd](https://www.youtube.com/user/smartherd/featured)
-     - This channel has so many courses in different languages and also has a fairly good content for flutter beginners.
-  5. [Techie Blossom](https://www.youtube.com/channel/UC3wqIkiaOUpO6EjJoCwH6_Q/playlists)
-     - This channel has a good tutorials for UI projects for any one who wants to practice new ideas or to get inspired. 
-  6. [whats up coders](https://www.youtube.com/channel/UCDCFIqDZ1QUqivxVFQDxS0w)
-     - This channel provide tutorials for many topics in Flutter and they are made simple.
-  7. [Desi Programmer](https://www.youtube.com/channel/UC-mNPTHVMGZgWkYWFVc8A3Q)
-     - This channel covers many topics in Flutter. He also has some content for different languages.
-  8. [The net ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
-     - This channel has a good content in many software topics and also covers an entire firebase app. 
+  1.  [Santos Enoque](https://www.youtube.com/channel/UCRl79zOEtiLCglAFZJJzEZQ)
+      - This channel has such a great content. It has an E-Commerce app which lasts in about  47 videos.
+  2.  [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA/featured)
+      - This channel has some great playlist most of them dedicated to explain Flutter clean Architecture and more. 
+  3.  [Raja Yogan](https://www.youtube.com/channel/UCjBxAm226XZvgrkO-JyjJgQ/featured)
+      - This channel has a great playlist explaining Firebase, he also has some beautiful UI videos.
+  4.  [Smartherd](https://www.youtube.com/user/smartherd/featured)
+      - This channel has so many courses in different languages and also has a fairly good content for flutter beginners.
+  5.  [Techie Blossom](https://www.youtube.com/channel/UC3wqIkiaOUpO6EjJoCwH6_Q/playlists)
+      - This channel has a good tutorials for UI projects for any one who wants to practice new ideas or to get inspired. 
+  6.  [whats up coders](https://www.youtube.com/channel/UCDCFIqDZ1QUqivxVFQDxS0w)
+      - This channel provide tutorials for many topics in Flutter and they are made simple.
+  7.  [Desi Programmer](https://www.youtube.com/channel/UC-mNPTHVMGZgWkYWFVc8A3Q)
+      - This channel covers many topics in Flutter. He also has some content for different languages.
+  8.  [The net ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+      - This channel has a good content in many software topics and also covers an entire firebase app. 
        I would also recommend its Git and GitHub series.
-  9. [Andy Julow](https://www.youtube.com/channel/UCSKeK_8IzsqwKQBJuIGJPaA/featured)
-     - One of the very recent channels that is explaining some tricky topics such as the state management in Flutter.
+  9.  [Andy Julow](https://www.youtube.com/channel/UCSKeK_8IzsqwKQBJuIGJPaA/featured)
+      - One of the very recent channels that is explaining some tricky topics such as the state management in Flutter.
+ 10.  [ProgrammingWorldApps](https://www.youtube.com/channel/UCOpuLcVZXl8C642cJVAC0VA/featured)
+      - One of the greatest **Arabic** channels that has a good complete content for it and also it has some other topics in different              languages.
+ 11.  [ahmed mohamady](https://www.youtube.com/user/theCodeFather00/featured)
+      - This channel has a great **Arabic** course for beginners covering many topics.
 
 
 
