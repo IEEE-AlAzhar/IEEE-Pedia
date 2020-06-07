@@ -71,6 +71,14 @@ For those who don't have a problem watching a complete  English course I would r
        - I recommend this one for any one who has learned **Provider** and wants something simple and useful to practice.
   11. [E commerce app using flutter](https://www.youtube.com/watch?v=gggjyIbvh7M&list=PLGVaNq6mHinganSLulR1_v8I0sqSR5tu4)
        - An E-commerce App explained in **Arabic**. The instructor is very straight forward and simple in his way explaining it.
+# Some Cloning Apps
+  1.  [Facebook messenger clone](https://www.youtube.com/watch?v=gwXtxVIC7w8&list=PLmnT6naTGy2QmxKcDj2-Rb18ZoQrXmBZ6)
+  2.  [Tweeter Clone in **Arabic**](https://www.youtube.com/watch?v=DJZwO7_61E0&list=PLrp0TLl83XrCTygYvrLwQTMxK0zmvvpbm)
+  3.  [Uber clone](https://www.youtube.com/watch?v=ya1lsXS2Wvw&list=PLmnT6naTGy2TNKTW2W-twfG_gFuCtnFQF)
 
-
-   
+# Some popular topics in Flutter
+  1.  [Provider in depth](https://www.youtube.com/watch?v=u9U6mXL3t_c&list=PLKlZdGMAYp6_kxMe1wg5nB_GrLOJe-ajY)
+  2.  [Flutter Clean Architecture](https://www.youtube.com/watch?v=KjE2IDphA_U&list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech)
+  3.  [SharedPreferences](https://www.youtube.com/watch?v=QKvgVu3ihkM)
+  4.  [Localization in Flutter](https://www.youtube.com/watch?v=AS-0SXT2qio&list=PLyHn8N5MSsgEfPAxCytQDPATDlHwpP5rE)
+  5.  [Payments in Flutter](https://www.youtube.com/watch?v=XdbwAmTx7f4&list=PLmnT6naTGy2Sb800Ny62T7Adv-dGvrryh)
