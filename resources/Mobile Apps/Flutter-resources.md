@@ -60,6 +60,8 @@ For those who don't have a problem watching a complete  English course I would r
       - One of the greatest **Arabic** channels that has a good complete content for it and also it has some other topics in different              languages.
  11.  [ahmed mohamady](https://www.youtube.com/user/theCodeFather00/featured)
       - This channel has a great **Arabic** course for beginners covering many topics.
+ 12.  [Code 2 Start ](https://www.youtube.com/channel/UCvrQznWIljgoa0y1sY4JDPg)
+      - This channel is very unique since it provides so much detailed content but in both **Arabic** and **English** and it provides           some detailed explanation for many tricky areas in Flutter like State Management and building APIs using Dart.
 
 # Some great projects to practice and get inspired
 <a name = "d"></a>
@@ -98,6 +100,8 @@ For those who don't have a problem watching a complete  English course I would r
   3.  [SharedPreferences](https://www.youtube.com/watch?v=QKvgVu3ihkM)
   4.  [Localization in Flutter](https://www.youtube.com/watch?v=AS-0SXT2qio&list=PLyHn8N5MSsgEfPAxCytQDPATDlHwpP5rE)
   5.  [Payments in Flutter](https://www.youtube.com/watch?v=XdbwAmTx7f4&list=PLmnT6naTGy2Sb800Ny62T7Adv-dGvrryh)
+  6.  [Databases In Flutter **Arabic**](https://www.youtube.com/watch?v=gFTopmKgCJE&list=PL3aG1K3LWCre5saKBGuCFU6Ay67GPY7qm&index=1)
+       - This playlist has such a detailed content for SQLite and Sharedpreferences for **Arabic** and also he provides the same videos          with the same content in **English** in his channel.
   6.  Splash Screen
        - You can see how to implement it in these two videos:
          - [Part 1](https://www.youtube.com/watch?v=71CYHUrxh88)
