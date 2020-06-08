@@ -18,7 +18,7 @@ I would recommend for **Arabic** speaker absolute beginners to start with this c
 since it is very simple and will build some strong base before heading to any English speaking course.
 
 1. [Dart Introductioin](https://www.youtube.com/watch?v=R-rv6vQfXq8&list=PLcfD4HARQRF-vr7yI0KkQAs2HzqyG7k2j)
-  - This introduction for dart will you engage in later English courses.
+  - This introduction for dart will help you engage in later English courses.
 2. [Flutter Introduction](https://www.youtube.com/watch?v=kggAr5GhPFw&list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL)
   - This introduction is somehow useful for absolute beginners as it provides 
      the basic knowledge to deal with the most common widgets in the Flutter Framework.
