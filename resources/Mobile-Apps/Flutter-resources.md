@@ -65,27 +65,29 @@ For those who don't have a problem watching a complete  English course I would r
 
 # Some great projects to practice and get inspired
 <a name = "d"></a>
-  1.  [Travel App UI](https://www.youtube.com/watch?v=CSa6Ocyog4U)
+  1.  [Flutter Samples](https://flutter.github.io/samples/#)
+       - Flutter samples has a big collection of projects that are open-source and can be found on GitHub as well.
+  2.  [Travel App UI](https://www.youtube.com/watch?v=CSa6Ocyog4U)
        - A very elegant UI for travel UI apps.
-  2.  Learning platform app UI
+  3.  Learning platform app UI
       - This app has a very beautiful design and also a responsive screen and consists of two parts:
         - [Part 1](https://www.youtube.com/watch?v=afBmGC63iIQ)
         - [Part 2](https://www.youtube.com/watch?v=EzOXUL2P4R0)
-  3.  [Flutter UI - Minimal Designs - Plants](https://www.youtube.com/watch?v=ok5zoeE_5x0)
-  4.  [Training & Diet App | Flutter UI](https://www.youtube.com/watch?v=DCskd6_GJtY)
+  4.  [Flutter UI - Minimal Designs - Plants](https://www.youtube.com/watch?v=ok5zoeE_5x0)
+  5.  [Training & Diet App | Flutter UI](https://www.youtube.com/watch?v=DCskd6_GJtY)
       - In this tutorial you will learn to material animations, double for loops in the column, Slivers, Radial Progress & Horizontal            Progress Widgets.
-  5.  [Animal Planet App UI | Flutter](https://www.youtube.com/watch?v=FOqwjBRiDzE)
-  6.  [Timer App In Flutter | Learn Tabbar And Button States](https://www.youtube.com/watch?v=f2FbW_D8VC8&list=PLlFwzkUNmr96NYeIgsaZkrzI8uNPaaFmb&index=23)
+  6.  [Animal Planet App UI | Flutter](https://www.youtube.com/watch?v=FOqwjBRiDzE)
+  7.  [Timer App In Flutter | Learn Tabbar And Button States](https://www.youtube.com/watch?v=f2FbW_D8VC8&list=PLlFwzkUNmr96NYeIgsaZkrzI8uNPaaFmb&index=23)
        - In this app you can practice some logic concerning adding a timer.
-  7.  [Pizza App](https://www.youtube.com/watch?v=roDNz7UZ9eE)
+  8.  [Pizza App](https://www.youtube.com/watch?v=roDNz7UZ9eE)
        - In this project you can practice some **OOP** concepts and also deal with **DropdownButtons**
-  8.  [Quiz App](https://www.youtube.com/watch?v=jBBl1tYkUnE)
+  9.  [Quiz App](https://www.youtube.com/watch?v=jBBl1tYkUnE)
        - In this elegant project you can practice some **OOP** concepts and also deal with **Animation**, but be sure that you have some          background before watching it.
-  9.  [Photo Search App](https://www.youtube.com/watch?v=IlGYqFcwIyw&list=PLmnT6naTGy2Qs1GRoDrQYhij0i69HDFuc)
+  10.  [Photo Search App](https://www.youtube.com/watch?v=IlGYqFcwIyw&list=PLmnT6naTGy2Qs1GRoDrQYhij0i69HDFuc)
        - I would recommend this one for any **beginner** who is starting to learn APIs since this project is somehow straight forward.
-  10. [Form Validation (Provider)](https://www.youtube.com/watch?v=Hr_-EqUR0lA)
+  11. [Form Validation (Provider)](https://www.youtube.com/watch?v=Hr_-EqUR0lA)
        - I recommend this one for any one who has learned **Provider** and wants something simple and useful to practice.
-  11. [E commerce app using flutter](https://www.youtube.com/watch?v=gggjyIbvh7M&list=PLGVaNq6mHinganSLulR1_v8I0sqSR5tu4)
+  12. [E commerce app using flutter](https://www.youtube.com/watch?v=gggjyIbvh7M&list=PLGVaNq6mHinganSLulR1_v8I0sqSR5tu4)
        - An E-commerce App explained in **Arabic**. The instructor is very straight forward and simple in his way explaining it.
 # Some Cloning Apps
 <a name = "e"></a>
@@ -119,7 +121,7 @@ For those who don't have a problem watching a complete  English course I would r
 # Developers' tools
 <a name = "h"></a>
   1.  [scrcpy](https://github.com/Genymobile/scrcpy)
-       - scrpy is an amazing light tool to help you mirror you cell phone screen on your laptop. **Highly recommended**
+       - scrpy is an amazing light tool to help you mirror you cell phone screen on your laptop. **Highly recommended**.
   2.  [flaticon](https://www.flaticon.com/) 
        - flaticon is a large store for many icons with different extensions.
   3.  [dribbble](https://dribbble.com/)
