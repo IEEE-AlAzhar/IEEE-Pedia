@@ -17,9 +17,9 @@ to help you have a better experience learning **Flutter**.
 I would recommend for **Arabic** speaker absolute beginners to start with this channel (PHP Anonymous), 
 since it is very simple and will build some strong base before heading to any English speaking course.
 
-1. [Dart Introductioin](https://www.youtube.com/watch?v=R-rv6vQfXq8&list=PLcfD4HARQRF-vr7yI0KkQAs2HzqyG7k2j)
+1. [Dart Introductioin](https://www.youtube.com/watch?v=Wotl0y87X-Q&list=PL3aG1K3LWCrdihgr1PnIrbphTyt3PZwoK)
   - This introduction for dart will help you engage in later English courses.
-2. [Flutter Introduction](https://www.youtube.com/watch?v=kggAr5GhPFw&list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL)
+2. [Flutter Introduction](https://www.youtube.com/watch?v=vA93-dOjSwY&list=PL3aG1K3LWCrfxDL6g1dqOXSNjwtA7zhm6)
   - This introduction is somehow useful for absolute beginners as it provides 
      the basic knowledge to deal with the most common widgets in the Flutter Framework.
      
@@ -32,8 +32,11 @@ For those who don't have a problem watching a complete  English course I would r
      Also, Dr Angela Yu, the instructor, is known for her wonderful explanation for the complicated parts.
 2. [Flutter & Dart - The Complete Guide [2020 Edition]](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)     
    - In this course Max explains more advanced topics than Angela does in her mention course above.
+3. [Code2Start](https://www.youtube.com/channel/UCvrQznWIljgoa0y1sY4JDPg/playlists)
+   - This channel on Youtube is just awesome and it is a good free option. Also, it is well organized that all playlists are 
+      numbered, so you can watch them in order, and also, every playlist is found in both **Arabic** and **English**.
    
-   **Those two courses are the most popular ones, but you may search and find a course that can be more suitable for your needs and level.**
+   **Those courses are the most popular ones, but you may search and find a course that can be more suitable for your needs and level.**
 
 # Great Youtube channels that any Flutter learner should know.
 <a name = "c"></a>
