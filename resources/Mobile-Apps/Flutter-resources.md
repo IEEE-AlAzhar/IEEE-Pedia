@@ -31,7 +31,7 @@ For those who don't have a problem watching a complete  English course I would r
    - This course is highly recommended for any one who prefers simplicity. 
      Also, Dr Angela Yu, the instructor, is known for her wonderful explanation for the complicated parts.
 2. [Flutter & Dart - The Complete Guide [2020 Edition]](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)     
-   - In this course Max explains more advanced topics than Angela does in her mention course above.
+   - In this course Max explains more advanced topics than Angela does in her mentioned course above.
 3. [Code2Start](https://www.youtube.com/channel/UCvrQznWIljgoa0y1sY4JDPg/playlists)
    - This channel on Youtube is just awesome, and it is a good free option. Also, it is well organized that all playlists are 
       numbered, so you can watch them in order, and also, every playlist is found in both **Arabic** and **English**.
